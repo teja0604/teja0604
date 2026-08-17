@@ -18,17 +18,85 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     
     steps:
-      # Generates a snake game from a github user contributions graph, output a svg animation at <summary_export_path>
-      - name: generate github-contribution-grid-snake.svg
+      # Generates a snake game from a github user contributions graph (with 5-attempt retry)
+      - name: generate github-contribution-grid-snake.svg (Attempt 1)
+        id: snake1
         uses: Platane/snk/svg-only@v3
+        continue-on-error: true
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: teja0604
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Sleep before Attempt 2
+        if: steps.snake1.outcome == 'failure'
+        run: sleep 45
+
+      - name: generate github-contribution-grid-snake.svg (Attempt 2)
+        id: snake2
+        if: steps.snake1.outcome == 'failure'
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: teja0604
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Sleep before Attempt 3
+        if: steps.snake2.outcome == 'failure'
+        run: sleep 45
+
+      - name: generate github-contribution-grid-snake.svg (Attempt 3)
+        id: snake3
+        if: steps.snake2.outcome == 'failure'
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: teja0604
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Sleep before Attempt 4
+        if: steps.snake3.outcome == 'failure'
+        run: sleep 45
+
+      - name: generate github-contribution-grid-snake.svg (Attempt 4)
+        id: snake4
+        if: steps.snake3.outcome == 'failure'
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: teja0604
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Sleep before Attempt 5
+        if: steps.snake4.outcome == 'failure'
+        run: sleep 45
+
+      - name: generate github-contribution-grid-snake.svg (Attempt 5)
+        id: snake5
+        if: steps.snake4.outcome == 'failure'
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: teja0604
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Check Snake Generation Status
+        if: steps.snake1.outcome == 'failure' && steps.snake2.outcome == 'failure' && steps.snake3.outcome == 'failure' && steps.snake4.outcome == 'failure' && steps.snake5.outcome == 'failure'
+        run: |
+          echo "Snake generation failed after 5 attempts."
+          exit 1
           
       # Push the content of <build_dir> to a branch
       # The content will be available at https://raw.githubusercontent.com/<user>/<repo>/<branch>/<file>
