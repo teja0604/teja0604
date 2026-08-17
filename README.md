@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="github-contribution-animation.svg" width="100%" alt="GitHub Contribution Animation"/>
+</div>
+
 <table width="100%">
 <tr>
 
@@ -64,75 +68,87 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 ---
 
 
+<!-- CURRENT FOCUS -->
+<h2>🧠 Current Focus</h2>
+<p align="center">
+  🔥 Data Structures & Algorithms 🔥 Java 🔥 SQL & DBMS 🔥 Full-Stack Development 🔥 React 🔥 Problem Solving 🌱 Machine Learning 🌱 Building Real-World Projects
+</p>
+
+---
+
+
 <!-- TECH STACK & ARSENAL -->
 <h2>🛠️ Tech Stack & Engineering Arsenal</h2>
 
 <table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Programming Languages</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
-      </p>
-      <br/>
-      
-      <h3>🎨 Frontend Development</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" />
-      </p>
-      <br/>
-      
-      <h3>⚙️ Backend Development</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
-      </p>
-      <br/>
-      
-      <h3>🗄️ Databases</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
-      </p>
-      <br/>
-      
-      <h3>☁️ Tools & Platforms</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,docker" />
-      </p>
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3>🤖 AI / Machine Learning</h3>
-      <p>Python • PyTorch • Torchvision • Scikit-learn<br/>
-      Computer Vision • Deep Learning • Transfer Learning<br/>
-      EfficientNet • OpenCV • Grad-CAM • Explainable AI<br/>
-      SHAP • Anomaly Detection • Predictive Maintenance<br/>
-      Demand Forecasting</p>
-      <br/>
+<tr>
+<td width="50%" valign="top">
 
-      <h3>👨‍💻 Programming Languages</h3>
-      <p>Java • Python • JavaScript • TypeScript • SQL • HTML • CSS</p>
-      <br/>
-      
-      <h3>🌐 Frontend Development</h3>
-      <p>React • TypeScript • JavaScript • Vite • Tailwind CSS • React Router • Axios</p>
-      <br/>
-      
-      <h3>⚙️ Backend Development</h3>
-      <p>Node.js • Express.js • FastAPI • REST APIs • Spring Boot</p>
-      <br/>
-      
-      <h3>🗄️ Databases</h3>
-      <p>PostgreSQL • MongoDB • SQL • Prisma • Mongoose • SQLAlchemy</p>
-      <br/>
-      
-      <h3>🔐 Security & APIs</h3>
-      <p>JWT • Spring Security • Clerk • Password Hashing • Socket.IO • WebSockets</p>
-      <br/>
+<h3>💻 Programming Languages</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+</p>
+<br/>
 
-      <h3>☁️ Tools & Platforms</h3>
-      <p>Git • GitHub • Docker • Neon • Stripe • Cloudinary</p>
-    </td>
-  </tr>
+<h3>🎨 Frontend Development</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" />
+</p>
+<br/>
+
+<h3>⚙️ Backend Development</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+</p>
+<br/>
+
+<h3>🗄️ Databases</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+<br/>
+
+<h3>☁️ Tools & Platforms</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 AI / Machine Learning</h3>
+<p>Python • PyTorch • Torchvision • Scikit-learn<br/>
+Computer Vision • Deep Learning • Transfer Learning<br/>
+EfficientNet • OpenCV • Grad-CAM • Explainable AI<br/>
+SHAP • Anomaly Detection • Predictive Maintenance<br/>
+Demand Forecasting</p>
+<br/>
+
+<h3>👨‍💻 Programming Languages</h3>
+<p>Java • Python • JavaScript • TypeScript • SQL • HTML • CSS</p>
+<br/>
+
+<h3>🌐 Frontend Development</h3>
+<p>React • TypeScript • JavaScript • Vite • Tailwind CSS • React Router • Axios</p>
+<br/>
+
+<h3>⚙️ Backend Development</h3>
+<p>Node.js • Express.js • FastAPI • REST APIs • Spring Boot</p>
+<br/>
+
+<h3>🗄️ Databases</h3>
+<p>PostgreSQL • MongoDB • SQL • Prisma • Mongoose • SQLAlchemy</p>
+<br/>
+
+<h3>🔐 Security & APIs</h3>
+<p>JWT • Spring Security • Clerk • Password Hashing • Socket.IO • WebSockets</p>
+<br/>
+
+<h3>☁️ Tools & Platforms</h3>
+<p>Git • GitHub • Docker • Neon • Stripe • Cloudinary</p>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -327,10 +343,4 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 
 ---
 
-
-<!-- CURRENT FOCUS -->
-<h2>🧠 Current Focus</h2>
-<p align="center">
-  🔥 Data Structures & Algorithms 🔥 Java 🔥 SQL & DBMS 🔥 Full-Stack Development 🔥 React 🔥 Problem Solving 🌱 Machine Learning 🌱 Building Real-World Projects
-</p>
 
