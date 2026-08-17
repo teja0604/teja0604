@@ -70,39 +70,34 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 <table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>👨‍💻 Programming Languages</h3>
+      <h3>💻 Programming Languages</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
       </p>
-      <p><b>SQL</b></p>
       <br/>
       
       <h3>🎨 Frontend Development</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" />
       </p>
-      <p><b>React Router • Axios</b></p>
       <br/>
       
       <h3>⚙️ Backend Development</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
       </p>
-      <p><b>REST APIs</b></p>
       <br/>
       
       <h3>🗄️ Databases</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
       </p>
-      <p><b>SQL • Mongoose • SQLAlchemy</b></p>
       <br/>
       
       <h3>☁️ Tools & Platforms</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=git,github,docker" />
       </p>
-      <p><b>Neon • Stripe • Cloudinary</b></p>
     </td>
     
     <td width="50%" valign="top">
@@ -113,19 +108,29 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
       SHAP • Anomaly Detection • Predictive Maintenance<br/>
       Demand Forecasting</p>
       <br/>
-      
-      <h3>🔐 Security & APIs</h3>
-      <p>JWT • Spring Security • Clerk<br/>
-      Password Hashing • REST APIs<br/>
-      Socket.IO • WebSockets</p>
+
+      <h3>👨‍💻 Programming Languages</h3>
+      <p>Java • Python • JavaScript • TypeScript • SQL • HTML • CSS</p>
       <br/>
       
-      <h3>🧠 Core Engineering</h3>
-      <p>Data Structures & Algorithms<br/>
-      Object-Oriented Programming<br/>
-      Problem Solving • DBMS • SQL<br/>
-      REST API Design<br/>
-      Authentication & Authorization</p>
+      <h3>🌐 Frontend Development</h3>
+      <p>React • TypeScript • JavaScript • Vite • Tailwind CSS • React Router • Axios</p>
+      <br/>
+      
+      <h3>⚙️ Backend Development</h3>
+      <p>Node.js • Express.js • FastAPI • REST APIs • Spring Boot</p>
+      <br/>
+      
+      <h3>🗄️ Databases</h3>
+      <p>PostgreSQL • MongoDB • SQL • Prisma • Mongoose • SQLAlchemy</p>
+      <br/>
+      
+      <h3>🔐 Security & APIs</h3>
+      <p>JWT • Spring Security • Clerk • Password Hashing • Socket.IO • WebSockets</p>
+      <br/>
+
+      <h3>☁️ Tools & Platforms</h3>
+      <p>Git • GitHub • Docker • Neon • Stripe • Cloudinary</p>
     </td>
   </tr>
 </table>
