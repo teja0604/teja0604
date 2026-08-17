@@ -148,27 +148,40 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 ---
 
 <!-- SKILLS SHOWCASE -->
-<h2>⚡ Tech Stack & Engineering Arsenal</h2>
+<h2>🛠️ Technical Arsenal</h2>
 
 <table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Languages</h3>
-      <p>Java • Python • JavaScript • SQL • HTML • CSS</p>
+      <h3>🧠 AI / Machine Learning</h3>
+      <p>Python • PyTorch • Torchvision • Scikit-learn • Computer Vision • Deep Learning • Transfer Learning • EfficientNet • OpenCV • Grad-CAM • Explainable AI • SHAP • Anomaly Detection • Predictive Maintenance • Demand Forecasting</p>
       <br/>
-      <h3>🧠 Core Computer Science</h3>
-      <p>Data Structures & Algorithms • Object-Oriented Programming • DBMS • SQL • Problem Solving</p>
+      <h3>👨‍💻 Programming Languages</h3>
+      <p>Java • Python • JavaScript • TypeScript • SQL • HTML • CSS</p>
       <br/>
-      <h3>🎨 Frontend</h3>
-      <p>HTML • CSS • JavaScript • React • Vite</p>
+      <h3>🌐 Frontend Development</h3>
+      <p>React • TypeScript • JavaScript • Vite • Tailwind CSS • React Router • Axios</p>
     </td>
     <td width="50%" valign="top">
+      <h3>⚙️ Backend Development</h3>
+      <p>Node.js • Express.js • FastAPI • REST APIs • Spring Boot</p>
+      <br/>
       <h3>🗄️ Databases</h3>
-      <p>SQL • PostgreSQL • Prisma</p>
+      <p>PostgreSQL • MongoDB • SQL • Prisma • Mongoose • SQLAlchemy</p>
       <br/>
-      <h3>🛠️ Development Tools</h3>
-      <p>Git • GitHub • Eclipse • NetBeans • VS Code</p>
+      <h3>🔐 Security & APIs</h3>
+      <p>JWT • Spring Security • Clerk • Password Hashing • Socket.IO • WebSockets</p>
       <br/>
+      <h3>☁️ Tools & Platforms</h3>
+      <p>Git • GitHub • Docker • Neon • Stripe • Cloudinary</p>
+    </td>
+  </tr>
+</table>
+
+<!-- DSA SPECIFIC -->
+<table width="100%" align="center">
+  <tr>
+    <td width="100%">
       <h3>🧠 Data Structures & Algorithms</h3>
       <p>I primarily use <strong>Java</strong> for solving Data Structures & Algorithms problems and competitive programming challenges.</p>
       <p>Arrays • Strings • Hashing • Two Pointers • Sliding Window • Prefix Sum • Sorting • Searching • Recursion • Linked Lists • Stacks & Queues • Trees • BST • Graphs • Greedy Algorithms • Dynamic Programming • Time & Space Complexity</p>
@@ -182,73 +195,62 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/teja0604/RoadBed">RoadBed</a></h3>
-      <p>A smart rental & property platform with map-based discovery and AI-powered rent prediction.</p>
+      <h3>🧠 <a href="https://github.com/teja0604/Neuro-Fusion-">NeuroFusionAI</a></h3>
+      <p>An explainable deep-learning medical imaging platform for neurological disease analysis from brain MRI scans, combining deep-learning classification, Grad-CAM explainability, clinical reporting, and a FastAPI backend.</p>
       <p>
-        <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Mapbox</code>
+        <code>Python</code> <code>PyTorch</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Grad-CAM</code> <code>OpenCV</code>
       </p>
-      <ul>
-        <li>✔ Property discovery with map-based search</li>
-        <li>✔ KYC, bookings, payments (Stripe) and notifications</li>
-      </ul>
+      <br/>
+      <a href="https://github.com/teja0604/Neuro-Fusion-">View Project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚦 <a href="https://github.com/teja0604/TrafficOptmizer">Traffic Route Optimizer</a></h3>
-      <p>A route optimization system mapping shortest paths based on geographic data.</p>
+      <h3>🚜 <a href="https://github.com/teja0604/Smart-Rental">Smart Rental</a></h3>
+      <p>Intelligent equipment-rental and fleet analytics platform with real-time telemetry, fleet tracking, predictive maintenance, anomaly detection, demand forecasting, and AI-powered operational insights.</p>
       <p>
-        <code>Java</code> <code>PostgreSQL</code> <code>PostGIS</code> <code>React</code> <code>Leaflet</code>
+        <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Python</code> <code>FastAPI</code> <code>Socket.IO</code>
       </p>
-      <ul>
-        <li>✔ Distance/travel-time calculation using OpenStreetMap</li>
-        <li>✔ Real-time visualization using Dijkstra's algorithm</li>
-      </ul>
+      <br/>
+      <a href="https://github.com/teja0604/Smart-Rental">View Project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🩸 <a href="https://github.com/teja0604/BlooddCare">BloodCare</a></h3>
+      <p>Full-stack healthcare and blood-donation platform supporting donor coordination, blood requests, patient and hospital management, emergency workflows, and role-based healthcare operations.</p>
+      <p>
+        <code>Java</code> <code>Spring Boot</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Spring Security</code> <code>JWT</code>
+      </p>
+      <br/>
+      <a href="https://github.com/teja0604/BlooddCare">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/teja0604/Jarvis">JARVIS</a></h3>
-      <p>A browser-based voice assistant built natively with web APIs.</p>
+      <p>A browser-based voice assistant built with JavaScript and native Web Speech APIs, supporting voice commands, browser actions, search, and spoken responses.</p>
       <p>
         <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Web Speech API</code>
       </p>
-      <ul>
-        <li>✔ Real-time Speech Recognition</li>
-        <li>✔ Text-to-speech with Speech Synthesis</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/teja0604/Grievance-Portal">Grievance Portal</a></h3>
-      <p>A full-stack complaint management system for users and admins.</p>
-      <p>
-        <code>React</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Node.js</code>
-      </p>
-      <ul>
-        <li>✔ Dedicated user and admin/staff workflows</li>
-        <li>✔ Clean backend API architecture</li>
-      </ul>
+      <br/>
+      <a href="https://github.com/teja0604/Jarvis">View Project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/teja0604/LMS">LMS</a></h3>
-      <p>A learning management system connecting educators and students.</p>
+      <h3>🏫 <a href="https://github.com/teja0604/Grievance-Portal">Smart Campus Grievance Portal</a></h3>
+      <p>A secure role-based campus grievance management platform allowing students to submit and track complaints while administrators and staff manage assignment, status updates, and resolution workflows.</p>
       <p>
-        <code>React</code> <code>Node.js</code> <code>PostgreSQL</code>
+        <code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>JWT</code>
       </p>
+      <br/>
+      <a href="https://github.com/teja0604/Grievance-Portal">View Project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/teja0604/Java_projects">Java Projects</a></h3>
-      <p>A collection of Java applications and programming projects built to strengthen object-oriented programming, problem solving, and core Java development skills.</p>
+      <h3>🎓 <a href="https://github.com/teja0604/LMS">Learning Management System</a></h3>
+      <p>A full-stack learning platform connecting students and educators through course discovery, enrollment, payments, learning progress tracking, ratings, and educator course management.</p>
       <p>
-        <code>Java</code> <code>OOP</code>
+        <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Clerk</code> <code>Stripe</code> <code>Cloudinary</code>
       </p>
-      <ul>
-        <li>✔ Number Game</li>
-        <li>✔ Student Grade Calculator</li>
-        <li>✔ Quiz Application</li>
-        <li>✔ Library Management System</li>
-        <li>✔ Hotel Management System</li>
-      </ul>
+      <br/>
+      <a href="https://github.com/teja0604/LMS">View Project →</a>
     </td>
   </tr>
 </table>
