@@ -167,22 +167,25 @@ INFO_ROWS = [
     {"type": "header"},
     # About section
     {"type": "section",  "label": "— About"},
-    {"type": "field",    "label": "Role",     "value": "Computer Science Student"},
+    {"type": "field",    "label": "Name",     "value": "Krishna Teja"},
+    {"type": "field",    "label": "Role",     "value": "Computer Science Engineering Student"},
     {"type": "field",    "label": "Focus",    "value": "Java • DSA • Full Stack Development"},
     {"type": "field",    "label": "College",  "value": "Sathyabama Institute of Science and Technology"},
     # Stack section
     {"type": "section",  "label": "— Stack"},
     {"type": "field",    "label": "Languages","value": "Java, Python, JavaScript, SQL"},
-    {"type": "field",    "label": "Frontend", "value": "React, HTML, CSS, Vite"},
-    {"type": "field",    "label": "Database", "value": "PostgreSQL, SQL, Prisma"},
-    {"type": "field",    "label": "Tools",    "value": "Git, GitHub, VS Code, Eclipse"},
+    {"type": "field",    "label": "Frontend", "value": "HTML, CSS, React, Vite"},
+    {"type": "field",    "label": "DSA",      "value": "Data Structures & Algorithms"},
+    {"type": "field",    "label": "Database", "value": "SQL, PostgreSQL"},
+    {"type": "field",    "label": "Tools",    "value": "Git, GitHub, Eclipse, NetBeans, VS Code"},
     # Highlights section
     {"type": "section",  "label": "— Highlights"},
     {"type": "bullet",   "value": "200+ LeetCode Solved"},
     {"type": "bullet",   "value": "800+ CodeChef Solved"},
     {"type": "bullet",   "value": "8★ HackerRank"},
     {"type": "bullet",   "value": "3+ HackerRank Badges"},
-    {"type": "bullet",   "value": "Multiple Full-Stack Projects"},
+    {"type": "bullet",   "value": "10+ Freelance Projects"},
+    {"type": "bullet",   "value": "Top 50 SIH 2025"},
 ]
 
 # Animation timing (matches reference: each row starts 0.06s after previous)

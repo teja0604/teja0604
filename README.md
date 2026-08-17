@@ -1,7 +1,12 @@
+<table>
+  <tr>
+    <td valign="top"><img src="terminal-card.svg" alt="ASCII Portrait" width="540"/></td>
+    <td valign="top"><img src="info-card.svg" alt="Info Card" width="400"/></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="github-contribution-animation.svg"
-       alt="GitHub Contribution Graph"
-       width="850"/>
+  <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
 </p>
 
 <table width="100%">
@@ -25,8 +30,8 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-  <h3><strong>Computer Science Engineering Student | Java & DSA Enthusiast | Full-Stack Developer</strong></h3>
-  <p><i>Building practical software solutions, solving problems with DSA, and exploring full-stack development and machine learning.</i></p>
+  <h3><strong>Computer Science Engineering Student | Java Developer | DSA / Problem Solving | Full-Stack Developer | SQL / Database | Machine Learning Enthusiast</strong></h3>
+  <p><i>Primary: Java + DSA + Problem Solving | Secondary: SQL + Full-Stack Development | Additional: Python + Machine Learning Fundamentals</i></p>
 
   <p>
     <a href="https://www.linkedin.com/in/vanama-krishna-teja-1570642a0"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -115,9 +120,13 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 
 ---
 
-### 🏅 Achievements
+## 🏅 Achievements
 
-- 🏆 **Luminous Award** — 2024
+- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2024**
+- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2025**
+- 🥇 **Top 50 — Smart India Hackathon (SIH) 2025**
+- 🏆 **9th Place — Sathyabama Start-up**
+- 🏆 **7th Place — Caterpillar Hackathon**
 <!-- ================= GITHUB ANALYTICS ================= -->
 ## 📈 GitHub Analytics & Open Source Activity
 
@@ -151,26 +160,24 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
   <tr>
     <td width="50%" valign="top">
       <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-      <br/><br/>
+      <p>Java • Python • JavaScript • SQL • HTML • CSS</p>
+      <br/>
+      <h3>🧠 Core Computer Science</h3>
+      <p>Data Structures & Algorithms • Object-Oriented Programming • DBMS • SQL • Problem Solving</p>
+      <br/>
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,html,css,js,vite" />
-      <br/><br/>
-      <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" />
-      <br/><br/>
-      <h3>🗄️ Databases & ORM</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
-      <br/><br/>
-      <h3>🛠️ Tools & Version Control</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+      <p>HTML • CSS • JavaScript • React • Vite</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔥 Data Structures & Algorithms</h3>
-      <p>Data Structures • Algorithms • Problem Solving • Java Collections • Hashing • Sorting • Searching • Two Pointers • Sliding Window • Prefix Sum • Trees • BST • Graphs • Recursion • Time & Space Complexity</p>
+      <h3>🗄️ Databases</h3>
+      <p>SQL • PostgreSQL • Prisma</p>
       <br/>
-      <h3>🤖 Machine Learning (Knowledge Area)</h3>
-      <p>Python • Machine Learning Fundamentals • Data Preprocessing • Supervised Learning • Model Evaluation • Feature Engineering • ML Concepts</p>
+      <h3>🛠️ Development Tools</h3>
+      <p>Git • GitHub • Eclipse • NetBeans • VS Code</p>
+      <br/>
+      <h3>🧠 Data Structures & Algorithms</h3>
+      <p>I primarily use <strong>Java</strong> for solving Data Structures & Algorithms problems and competitive programming challenges.</p>
+      <p>Arrays • Strings • Hashing • Two Pointers • Sliding Window • Prefix Sum • Sorting • Searching • Recursion • Linked Lists • Stacks & Queues • Trees • BST • Graphs • Greedy Algorithms • Dynamic Programming • Time & Space Complexity</p>
     </td>
   </tr>
 </table>
@@ -237,13 +244,16 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
     </td>
     <td width="50%" valign="top">
       <h3>☕ <a href="https://github.com/teja0604/Java_projects">Java Projects</a></h3>
-      <p>A collection of Java programming projects and practice applications.</p>
+      <p>A collection of Java applications and programming projects built to strengthen object-oriented programming, problem solving, and core Java development skills.</p>
       <p>
         <code>Java</code> <code>OOP</code>
       </p>
       <ul>
-        <li>✔ Number Game & Student Grade Calculator</li>
-        <li>✔ Library & Hotel Management Systems</li>
+        <li>✔ Number Game</li>
+        <li>✔ Student Grade Calculator</li>
+        <li>✔ Quiz Application</li>
+        <li>✔ Library Management System</li>
+        <li>✔ Hotel Management System</li>
       </ul>
     </td>
   </tr>
@@ -255,12 +265,25 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <h3>💻 Technology Intern — Comicode AI Solutions</h3>
+      <h3>🧑‍💻 Technology Intern — Comicode AI Solutions</h3>
       <ul>
         <li>Worked on AI-assisted storybook creation and generated story content.</li>
-        <li>Worked with AI image generation and used Canva for visual content creation.</li>
-        <li>Contributed to the Kadhaster platform including character face swapping functionality.</li>
+        <li>Worked with AI-generated images and used Canva for visual content creation.</li>
+        <li>Contributed to the Kadhaster platform including character face-swapping functionality.</li>
         <li>Acted as a team lead for fellow interns, managing project deliverables.</li>
+      </ul>
+      <br/>
+      <h3>📐 President — Mathematics Club</h3>
+      <p><strong>Sathyabama Institute of Science and Technology</strong></p>
+      <ul>
+        <li>Leadership and coordination of Mathematics Club activities.</li>
+      </ul>
+      <br/>
+      <h3>💻 Freelance Project Developer</h3>
+      <ul>
+        <li>Developed academic and project solutions based on student requirements for final-year students.</li>
+        <li>Completed <strong>10+ projects</strong>.</li>
+        <li>Focused on delivering functional, practical project implementations across different project requirements and technologies.</li>
       </ul>
     </td>
   </tr>
