@@ -57,7 +57,7 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 
 <td width="60%" align="center" valign="middle" style="border: none; background: none;">
 
-<img src="./assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" height="auto" alt="Coding Animation"/>
+<img src="./assets/coding-typing.gif" width="450" alt="Coding Animation"/>
 
 </td>
 </tr>
