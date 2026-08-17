@@ -125,12 +125,12 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
   <tr>
     <td align="center" width="50%" style="border: none; background: none;">
       <a href="https://github.com/teja0604">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teja0604&theme=dark" alt="Top Languages by Repo" width="400" />
+        <img src="./assets/top-languages-repo.svg" alt="Top Languages by Repo" width="400" />
       </a>
     </td>
     <td align="center" width="50%" style="border: none; background: none;">
       <a href="https://github.com/teja0604">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teja0604&theme=dark" alt="Top Languages by Commit" width="400" />
+        <img src="./assets/top-languages-commit.svg" alt="Top Languages by Repository Activity" width="400" />
       </a>
     </td>
   </tr>

@@ -1,0 +1,22 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="200" fill="#0d1117" rx="8" stroke="#30363d" stroke-width="1"/>
+<text x="25" y="30" fill="#58a6ff" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">Top Languages by Commit</text>
+<path d="M 280.0 40.0 A 60 60 0 1 1 225.70775059565017 125.54117567019726" fill="none" stroke="#8b949e" stroke-width="25" />
+<circle cx="25" cy="56" r="5" fill="#8b949e"/>
+<text x="40" y="60" fill="#c9d1d9" font-family="system-ui, sans-serif" font-size="13">Jupyter Notebook (68.0%)</text>
+<path d="M 225.70775059565017 125.54117567019726 A 60 60 0 0 1 227.99243874342554 70.07988014489825" fill="none" stroke="#3178c6" stroke-width="25" />
+<circle cx="25" cy="78" r="5" fill="#3178c6"/>
+<text x="40" y="82" fill="#c9d1d9" font-family="system-ui, sans-serif" font-size="13">TypeScript (15.3%)</text>
+<path d="M 227.99243874342554 70.07988014489825 A 60 60 0 0 1 248.63430297658678 48.85126540924549" fill="none" stroke="#3572A5" stroke-width="25" />
+<circle cx="25" cy="100" r="5" fill="#3572A5"/>
+<text x="40" y="104" fill="#c9d1d9" font-family="system-ui, sans-serif" font-size="13">Python (7.9%)</text>
+<path d="M 248.63430297658678 48.85126540924549 A 60 60 0 0 1 268.8068421368284 41.053301898663406" fill="none" stroke="#f1e05a" stroke-width="25" />
+<circle cx="25" cy="122" r="5" fill="#f1e05a"/>
+<text x="40" y="126" fill="#c9d1d9" font-family="system-ui, sans-serif" font-size="13">JavaScript (5.8%)</text>
+<path d="M 268.8068421368284 41.053301898663406 A 60 60 0 0 1 276.01765398642 40.132304869586605" fill="none" stroke="#b07219" stroke-width="25" />
+<circle cx="25" cy="144" r="5" fill="#b07219"/>
+<text x="40" y="148" fill="#c9d1d9" font-family="system-ui, sans-serif" font-size="13">Java (1.9%)</text>
+<path d="M 276.01765398642 40.132304869586605 A 60 60 0 0 1 279.99999999999994 40.0" fill="none" stroke="#8b949e" stroke-width="25" />
+<circle cx="25" cy="166" r="5" fill="#8b949e"/>
+<text x="40" y="170" fill="#c9d1d9" font-family="system-ui, sans-serif" font-size="13">Other (1.1%)</text>
+</svg>
