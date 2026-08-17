@@ -1,13 +1,26 @@
-<table>
-  <tr>
-    <td valign="top"><img src="terminal-card.svg" alt="ASCII Portrait" width="540"/></td>
-    <td valign="top"><img src="info-card.svg" alt="Info Card" width="400"/></td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
+  <img src="github-contribution-animation.svg"
+       alt="GitHub Contribution Graph"
+       width="850"/>
 </p>
+
+<table width="100%">
+<tr>
+
+<td width="45%" valign="middle" align="center">
+<img src="terminal-card.svg"
+     alt="Krishna Teja ASCII Terminal Portrait"
+     width="100%"/>
+</td>
+
+<td width="55%" valign="middle" align="center">
+<img src="info-card.svg"
+     alt="Krishna Teja Developer Information"
+     width="100%"/>
+</td>
+
+</tr>
+</table>
 
 <!-- HERO SECTION -->
 <div align="center">
@@ -105,6 +118,32 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 ### 🏅 Achievements
 
 - 🏆 **Luminous Award** — 2024
+<!-- ================= GITHUB ANALYTICS ================= -->
+## 📈 GitHub Analytics & Open Source Activity
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://github.com/teja0604">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teja0604&theme=dark" alt="Top Languages by Repo" width="400" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://github.com/teja0604">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teja0604&theme=dark" alt="Top Languages by Commit" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/teja0604">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja0604&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" width="850" />
+  </a>
+</p>
+
+---
+
 <!-- SKILLS SHOWCASE -->
 <h2>⚡ Tech Stack & Engineering Arsenal</h2>
 

@@ -322,7 +322,3 @@ def build_terminal():
 with open("github-contribution-animation.svg", "w", encoding="utf-8") as f:
     f.write(build_contrib())
 print("[OK] github-contribution-animation.svg written")
-
-with open("terminal-card.svg", "w", encoding="utf-8") as f:
-    f.write(build_terminal())
-print("[OK] terminal-card.svg written")
