@@ -1,9 +1,3 @@
-<table>
-  <tr>
-    <td valign="top"><img src="terminal-card.svg" alt="ASCII Portrait" width="540"/></td>
-    <td valign="top"><img src="info-card.svg" alt="Info Card" width="400"/></td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
