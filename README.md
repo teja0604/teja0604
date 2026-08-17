@@ -68,14 +68,6 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 ---
 
 
-<!-- CURRENT FOCUS -->
-<h2>🧠 Current Focus</h2>
-<p align="center">
-  🔥 Data Structures & Algorithms 🔥 Java 🔥 SQL & DBMS 🔥 Full-Stack Development 🔥 React 🔥 Problem Solving 🌱 Machine Learning 🌱 Building Real-World Projects
-</p>
-
----
-
 
 <!-- TECH STACK & ARSENAL -->
 <h2>🛠️ Tech Stack & Engineering Arsenal</h2>
@@ -295,6 +287,14 @@ Demand Forecasting</p>
 </div>
 
 ---
+
+<!-- CURRENT FOCUS -->
+<h2>🧠 Current Focus</h2>
+<p align="center">
+  🔥 Data Structures & Algorithms 🔥 Java 🔥 SQL & DBMS 🔥 Full-Stack Development 🔥 React 🔥 Problem Solving 🌱 Machine Learning 🌱 Building Real-World Projects
+</p>
+
+<br/>
 
 <!-- ================= COMPETITIVE PROGRAMMING ================= -->
 <!-- Section Header with subtle typing or glow effect layout -->
