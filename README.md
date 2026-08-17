@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
-</p>
-
 <table width="100%">
 <tr>
 
@@ -41,6 +36,7 @@
 
 <br/>
 
+
 <!-- ABOUT & MEDIA SECTION -->
 <!-- ================= ABOUT ME ================= -->
 <h2 align="center">🚀 About Me</h2>
@@ -67,127 +63,74 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 
 ---
 
-<!-- ================= COMPETITIVE PROGRAMMING ================= -->
-<!-- Section Header with subtle typing or glow effect layout -->
-<!-- Section Header with a matching Dark/Glow theme -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🏆%20Competitive%20Programming&fontSize=30&fontColor=ffffff" width="100%"/>
-</div>
 
-<!-- Animated Metrics Section -->
-<p align="center">
-  <a href="https://leetcode.com/u/krishna_teja0403/">
-    <img src="https://img.shields.io/badge/LEETCODE-200+%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/krishnateja090">
-    <img src="https://img.shields.io/badge/CODECHEF-800+%20SOLVED-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/krishnateja0604">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/vanamakrishnate1">
-    <img src="https://img.shields.io/badge/HACKERRANK-8★%20%7C%203+%20BADGES-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
-<!-- Left/Right Split: Perfectly balanced with working assets -->
-<table align="center" width="100%" border="0">
-  <tr>
-    <td align="center" width="50%" style="border: none; background: none;">
-      <a href="https://leetcode.com/u/krishna_teja0403/">
-        <img src="https://leetcard.jacoblin.cool/krishna_teja0403?theme=dark&font=Fira%20Code" width="400"/>
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: none; background: none;">
-      <!-- Using a GitHub-native typing animation that never fails to render -->
-      <a href="https://github.com/teja0604">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=400&lines=Building+Algorithms...;Solving+Complex+DSA;Optimizing+Time+Complexity;Continuous+Learning" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Animated Footer Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-</div>
-
----
-
-## 🏅 Achievements
-
-- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2024**
-- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2025**
-- 🥇 **Top 50 — Smart India Hackathon (SIH) 2025**
-- 🏆 **9th Place — Sathyabama Start-up**
-- 🏆 **7th Place — Caterpillar Hackathon**
-<!-- ================= GITHUB ANALYTICS ================= -->
-## 📈 GitHub Analytics & Open Source Activity
-
-<table align="center" width="100%" border="0">
-  <tr>
-    <td align="center" width="50%" style="border: none; background: none;">
-      <a href="https://github.com/teja0604">
-        <img src="./assets/top-languages-repo.svg" alt="Top Languages by Repo" width="400" />
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: none; background: none;">
-      <a href="https://github.com/teja0604">
-        <img src="./assets/top-languages-commit.svg" alt="Top Languages by Repository Activity" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/teja0604">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja0604&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" width="850" />
-  </a>
-</p>
-
----
-
-<!-- SKILLS SHOWCASE -->
-<h2>🛠️ Technical Arsenal</h2>
+<!-- TECH STACK & ARSENAL -->
+<h2>🛠️ Tech Stack & Engineering Arsenal</h2>
 
 <table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 AI / Machine Learning</h3>
-      <p>Python • PyTorch • Torchvision • Scikit-learn • Computer Vision • Deep Learning • Transfer Learning • EfficientNet • OpenCV • Grad-CAM • Explainable AI • SHAP • Anomaly Detection • Predictive Maintenance • Demand Forecasting</p>
-      <br/>
       <h3>👨‍💻 Programming Languages</h3>
-      <p>Java • Python • JavaScript • TypeScript • SQL • HTML • CSS</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+      </p>
+      <p><b>SQL</b></p>
       <br/>
-      <h3>🌐 Frontend Development</h3>
-      <p>React • TypeScript • JavaScript • Vite • Tailwind CSS • React Router • Axios</p>
-    </td>
-    <td width="50%" valign="top">
+      
+      <h3>🎨 Frontend Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" />
+      </p>
+      <p><b>React Router • Axios</b></p>
+      <br/>
+      
       <h3>⚙️ Backend Development</h3>
-      <p>Node.js • Express.js • FastAPI • REST APIs • Spring Boot</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+      </p>
+      <p><b>REST APIs</b></p>
       <br/>
+      
       <h3>🗄️ Databases</h3>
-      <p>PostgreSQL • MongoDB • SQL • Prisma • Mongoose • SQLAlchemy</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+      </p>
+      <p><b>SQL • Mongoose • SQLAlchemy</b></p>
       <br/>
-      <h3>🔐 Security & APIs</h3>
-      <p>JWT • Spring Security • Clerk • Password Hashing • Socket.IO • WebSockets</p>
-      <br/>
+      
       <h3>☁️ Tools & Platforms</h3>
-      <p>Git • GitHub • Docker • Neon • Stripe • Cloudinary</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,docker" />
+      </p>
+      <p><b>Neon • Stripe • Cloudinary</b></p>
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3>🤖 AI / Machine Learning</h3>
+      <p>Python • PyTorch • Torchvision • Scikit-learn<br/>
+      Computer Vision • Deep Learning • Transfer Learning<br/>
+      EfficientNet • OpenCV • Grad-CAM • Explainable AI<br/>
+      SHAP • Anomaly Detection • Predictive Maintenance<br/>
+      Demand Forecasting</p>
+      <br/>
+      
+      <h3>🔐 Security & APIs</h3>
+      <p>JWT • Spring Security • Clerk<br/>
+      Password Hashing • REST APIs<br/>
+      Socket.IO • WebSockets</p>
+      <br/>
+      
+      <h3>🧠 Core Engineering</h3>
+      <p>Data Structures & Algorithms<br/>
+      Object-Oriented Programming<br/>
+      Problem Solving • DBMS • SQL<br/>
+      REST API Design<br/>
+      Authentication & Authorization</p>
     </td>
   </tr>
 </table>
 
-<!-- DSA SPECIFIC -->
-<table width="100%" align="center">
-  <tr>
-    <td width="100%">
-      <h3>🧠 Data Structures & Algorithms</h3>
-      <p>I primarily use <strong>Java</strong> for solving Data Structures & Algorithms problems and competitive programming challenges.</p>
-      <p>Arrays • Strings • Hashing • Two Pointers • Sliding Window • Prefix Sum • Sorting • Searching • Recursion • Linked Lists • Stacks & Queues • Trees • BST • Graphs • Greedy Algorithms • Dynamic Programming • Time & Space Complexity</p>
-    </td>
-  </tr>
-</table>
+---
 
 <!-- PROJECTS -->
 <h2>💼 Featured Projects</h2>
@@ -255,6 +198,7 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
   </tr>
 </table>
 
+
 <!-- ENGINEERING EXPERIENCE -->
 <h2>🚀 Experience</h2>
 
@@ -285,26 +229,103 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
   </tr>
 </table>
 
+
+## 🏅 Achievements
+
+- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2024**
+- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2025**
+- 🥇 **Top 50 — Smart India Hackathon (SIH) 2025**
+- 🏆 **9th Place — Sathyabama Start-up**
+- 🏆 **7th Place — Caterpillar Hackathon**
+
+<!-- GITHUB ANALYTICS & OPEN SOURCE ACTIVITY -->
+<h2>📈 GitHub Analytics & Open Source Activity</h2>
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://github.com/teja0604">
+        <img src="./assets/top-languages-repo.svg" alt="Top Languages by Repo" width="400" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://github.com/teja0604">
+        <img src="./assets/top-languages-commit.svg" alt="Top Languages by Repository Activity" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja0604&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/teja0604">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja0604&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" width="97%" />
+  </a>
+</p>
+
+<h2>🐍 GitHub Contribution Graph</h2>
+<div align="center">
+  <p>
+    <img src="https://raw.githubusercontent.com/teja0604/teja0604/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
+  </p>
+</div>
+
+---
+
+<!-- ================= COMPETITIVE PROGRAMMING ================= -->
+<!-- Section Header with subtle typing or glow effect layout -->
+<!-- Section Header with a matching Dark/Glow theme -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🏆%20Competitive%20Programming&fontSize=30&fontColor=ffffff" width="100%"/>
+</div>
+
+<!-- Animated Metrics Section -->
+<p align="center">
+  <a href="https://leetcode.com/u/krishna_teja0403/">
+    <img src="https://img.shields.io/badge/LEETCODE-200+%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/krishnateja090">
+    <img src="https://img.shields.io/badge/CODECHEF-800+%20SOLVED-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/krishnateja0604">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/vanamakrishnate1">
+    <img src="https://img.shields.io/badge/HACKERRANK-8★%20%7C%203+%20BADGES-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<!-- Left/Right Split: Perfectly balanced with working assets -->
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://leetcode.com/u/krishna_teja0403/">
+        <img src="https://leetcard.jacoblin.cool/krishna_teja0403?theme=dark&font=Fira%20Code" width="400"/>
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <!-- Using a GitHub-native typing animation that never fails to render -->
+      <a href="https://github.com/teja0604">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=400&lines=Building+Algorithms...;Solving+Complex+DSA;Optimizing+Time+Complexity;Continuous+Learning" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Footer Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
+
+---
+
+
 <!-- CURRENT FOCUS -->
 <h2>🧠 Current Focus</h2>
 <p align="center">
   🔥 Data Structures & Algorithms 🔥 Java 🔥 SQL & DBMS 🔥 Full-Stack Development 🔥 React 🔥 Problem Solving 🌱 Machine Learning 🌱 Building Real-World Projects
 </p>
 
-<!-- GITHUB STATS -->
-<h2>📈 GitHub Analytics</h2>
-<div align="center">
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teja0604&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teja0604&theme=tokyonight" />
-</p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja0604&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
-  </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=teja0604&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="Activity Graph" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/teja0604/teja0604/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
-  </p>
-</div>
