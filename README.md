@@ -67,6 +67,52 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 
 ---
 
+<!-- ================= COMPETITIVE PROGRAMMING ================= -->
+<!-- Section Header with subtle typing or glow effect layout -->
+<!-- Section Header with a matching Dark/Glow theme -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🏆%20Competitive%20Programming&fontSize=30&fontColor=ffffff" width="100%"/>
+</div>
+
+<!-- Animated Metrics Section -->
+<p align="center">
+  <a href="https://leetcode.com/u/krishna_teja0403/">
+    <img src="https://img.shields.io/badge/LEETCODE-200+%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/krishnateja090">
+    <img src="https://img.shields.io/badge/CODECHEF-800+%20SOLVED-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/krishnateja0604">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/vanamakrishnate1">
+    <img src="https://img.shields.io/badge/HACKERRANK-8★%20%7C%203+%20BADGES-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<!-- Left/Right Split: Perfectly balanced with working assets -->
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://leetcode.com/u/krishna_teja0403/">
+        <img src="https://leetcard.jacoblin.cool/krishna_teja0403?theme=dark&font=Fira%20Code" width="400"/>
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <!-- Using a GitHub-native typing animation that never fails to render -->
+      <a href="https://github.com/teja0604">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=400&lines=Building+Algorithms...;Solving+Complex+DSA;Optimizing+Time+Complexity;Continuous+Learning" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Footer Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
+
+---
 
 
 <!-- TECH STACK & ARSENAL -->
@@ -285,62 +331,4 @@ Demand Forecasting</p>
     <img src="https://raw.githubusercontent.com/teja0604/teja0604/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
   </p>
 </div>
-
----
-
-<!-- CURRENT FOCUS -->
-<h2>🧠 Current Focus</h2>
-<p align="center">
-  🔥 Data Structures & Algorithms 🔥 Java 🔥 SQL & DBMS 🔥 Full-Stack Development 🔥 React 🔥 Problem Solving 🌱 Machine Learning 🌱 Building Real-World Projects
-</p>
-
-<br/>
-
-<!-- ================= COMPETITIVE PROGRAMMING ================= -->
-<!-- Section Header with subtle typing or glow effect layout -->
-<!-- Section Header with a matching Dark/Glow theme -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🏆%20Competitive%20Programming&fontSize=30&fontColor=ffffff" width="100%"/>
-</div>
-
-<!-- Animated Metrics Section -->
-<p align="center">
-  <a href="https://leetcode.com/u/krishna_teja0403/">
-    <img src="https://img.shields.io/badge/LEETCODE-200+%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/krishnateja090">
-    <img src="https://img.shields.io/badge/CODECHEF-800+%20SOLVED-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/krishnateja0604">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/vanamakrishnate1">
-    <img src="https://img.shields.io/badge/HACKERRANK-8★%20%7C%203+%20BADGES-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
-<!-- Left/Right Split: Perfectly balanced with working assets -->
-<table align="center" width="100%" border="0">
-  <tr>
-    <td align="center" width="50%" style="border: none; background: none;">
-      <a href="https://leetcode.com/u/krishna_teja0403/">
-        <img src="https://leetcard.jacoblin.cool/krishna_teja0403?theme=dark&font=Fira%20Code" width="400"/>
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: none; background: none;">
-      <!-- Using a GitHub-native typing animation that never fails to render -->
-      <a href="https://github.com/teja0604">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=400&lines=Building+Algorithms...;Solving+Complex+DSA;Optimizing+Time+Complexity;Continuous+Learning" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Animated Footer Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-</div>
-
----
-
 
