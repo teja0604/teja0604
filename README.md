@@ -114,6 +114,13 @@ I am a Computer Science Engineering student at Sathyabama Institute of Science a
 
 ---
 
+## 🏅 Achievements
+
+- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2024**
+- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2025**
+- 🥇 **Top 50 — Smart India Hackathon (SIH) 2025**
+- 🏆 **9th Place — Sathyabama Start-up**
+- 🏆 **7th Place — Caterpillar Hackathon**
 
 <!-- TECH STACK & ARSENAL -->
 <h2>🛠️ Tech Stack & Engineering Arsenal</h2>
@@ -287,15 +294,6 @@ Demand Forecasting</p>
     </td>
   </tr>
 </table>
-
-
-## 🏅 Achievements
-
-- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2024**
-- 🏆 **Sathyabama Luminary Award for Excellence in Academics and Coding — 2025**
-- 🥇 **Top 50 — Smart India Hackathon (SIH) 2025**
-- 🏆 **9th Place — Sathyabama Start-up**
-- 🏆 **7th Place — Caterpillar Hackathon**
 
 <!-- GITHUB ANALYTICS & OPEN SOURCE ACTIVITY -->
 <h2>📈 GitHub Analytics & Open Source Activity</h2>
